@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta content="IE=8" http-equiv="X-UA-Compatible" />
+<title>6.S077 : </title>
+<style media="all" type="text/css">@import "/stellar/f/shared/2.2.1/css/global.css";</style>
+<style media="all" type="text/css">@import "/stellar/f/mit2/2.1/css/mit2.css";</style>
+<style media="print" type="text/css">@import "/stellar/f/shared/2.2.1/css/print.css";</style>
+</head>
+<body>
+<div id="container">
+<div id="banner">
+<h1>6.S077 
+Introduction to Data Science</h1>
+</div>
+<div id="mainnav">
+<ul id="login">
+<li id="log">
+<a href="/S/logout/">
+LOGOUT
+</a>
+</li>
+<li id="user">Idaly</li>
+<li>
+Registered Student
+</li>
+</ul>
+<ul>
+<li>
+<a href="/S/course/6/sp18/6.S077/index.html">Class Home</a>
+</li>
+<li>
+<a href="/S/course/6/sp18/6.S077/materials.html">Materials</a>
+</li>
+<li>
+<a href="/S/course/6/sp18/6.S077/calendar.html">Calendar</a>
+</li>
+<li>
+<a href="/S/course/6/sp18/6.S077/homework/index.html">Homework</a>
+</li>
+<li>
+<a target="_blank" href="/S/course/6/sp18/6.S077/gradebook3/">Gradebook Module</a>
+</li>
+<li>
+<a target="_blank" href="/S/course/6/sp18/6.S077/forum-ng/">Forum</a>
+</li>
+<li class="space"> </li>
+<li>
+<a target="_blank" href="/S/course/6/sp18/6.S077/people/membership.html">Membership</a>
+</li>
+<li>
+<a href="/S/course/6/sp18/6.S077/people/stafflist.html">Staff List</a>
+</li>
+<li>
+<a href="/S/course/6/sp18/6.S077/search.html">Search</a>
+</li>
+<li>
+<a id="help" target="_new" href="/context-help/index.phtml?mode=students&amp;nexus=/S/course/6/sp18/6.S077/">
+Stellar Help</a>
+</li>
+<li>
+<br />
+<a href="http://ist.mit.edu/support" target="_new">Contact Help Desk</a>
+</li>
+</ul>
+</div>
+<p id="crumbs">
+<a href="/atstellar" class="spanlink">@Stellar</a>»<a href="/courseguide/course/6/" class="spanlink">Course 6</a>»<a href="/courseguide/course/6/sp18/" class="spanlink">Spring 2018</a>»<a href="/S/course/6/sp18/6.S077/" class="spanlink">6.S077</a>
+</p>
+<div id="content">
+<div class="instruction">
+<a onclick="javascript:void window.open('/websispopup.html','websis','width=800,height=400,toolbar=0,menubar=0,location=0,status=0,scrollbars=0,resizable=1').focus();return false;" href="/websispopup.html">Are you registered via WebSIS?</a>
+</div>
+<!--
+$Revision: 1.21 $ / $Date: 2007-02-02 22:35:20 $
+-->
+<h2>D. Bertsekas, J. Tsitsiklis,
+<em>Properties of linear LMS estimation based on multiple observations</em>
+</h2>
+<h4>Source: <citation-sourceXML>
+BERTSEKAS, Dimitri P.; TSITSIKLIS, John N. Introduction to
+probability. Belmont, MA: Athena Scientific, 2002.  </citation-sourceXML>
+</h4>
+<p>
+<strong>Notes: </strong>
+<citation-notesXML>
+  </citation-notesXML>
+</p>
+<div class="instruction">
+<h4>An instructor or TA has designated this material as copyright-protected.</h4>
+<p>
+Material protected by copyright has restrictions on usage and reproduction, which may be subject to Fair Use exceptions for nonprofit, educational purposes under limited circumstances.
+</p>
+<p>By clicking "I understand," you <strong>acknowledge that this material may be protected by copyright law and its usage may be restricted.</strong>
+</p>
+<p>Note: Depending on the specific licensing agreement of the content you are trying to access, users with a non-MIT email (CAMS account) may not be able to view restricted materials. To gain access to these materials, you will need an MIT Kerberos ID. For more information on accounts, please visit <a href="http://ist.mit.edu/support/accounts/information#reg">here</a> or email <a href="mailto:stellar-help@mit.edu">Customer Support</a>
+</p>
+</div>
+<form enctype="multipart/form-data" method="post" action="/S/course/6/sp18/6.S077/courseMaterial/topics/topic6/studyMaterial/For-recitation-2/For-recitation-2.pdf">
+<input type="hidden" name="backURL" value="/S/course/6/sp18/6.S077/courseMaterial/topics/topic6/studyMaterial/For-recitation-2/For-recitation-2.pdf" />
+<input type="hidden" name="serialNumber" value="" />
+<input class="button" value="I understand" name="Accept" type="submit" />
+</form>
+<br />
+<form method="get" action="https://stellar.mit.edu/S/course/6/sp18/6.S077/materials.html">
+<input class="button" value="Cancel" type="submit" />
+</form>
+</div>
+<div id="footer">
+<a id="topLink" title="Back to top" href="#container">top</a>
+<a class="library" href="http://libraries.mit.edu">
+<img class="librarylogo" title="Go to MIT Library" alt="MIT Library logo" src="/stellar/f/shared/images/library-logo.png" />
+</a> | <a href="https://wikis.mit.edu/confluence/display/SUG2/Stellar+Terms+of+Service" target="new">TERMS OF SERVICE</a> | <a href="http://web.mit.edu/copyright/">MIT COPYRIGHT</a> | <a href="http://libraries.mit.edu/scholarly/publishing/copyright-information-for-mit-faculty/">FAIR USE GUIDELINES</a>
+</div>
+</div>
+</body>
+</html>
